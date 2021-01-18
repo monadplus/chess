@@ -1,0 +1,20 @@
+# Blackburne Shilling Gambit Trap
+
+Player is black
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nd4
+4. Nxe5 Qg5
+5. Nxf7 Qxg2
+6. Rf1 (6. Nxh8 Qxh1+
+        7. Bf1 Qxe4+
+        8. Qe2 (8. Be2 Bc5
+                9. Nc3 Nf3+
+                10. Kf1 Qh4
+                11. Kg2 Qxf2+
+                12. Kh1 Qxh2#)
+        8... Nxe2)
+6... Qxe4+
+7. Qe2 (7. Be2 Nf3#)
+7... Nxe2

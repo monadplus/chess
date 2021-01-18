@@ -1,0 +1,163 @@
+# Nakhmanson's Gambit
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bc4 Nf6
+4. d4 exd4
+5. O-O Nxe4
+6. Nc3 dxc3
+7. Bxf7! Kxf7
+8. Qd5!
+
+## 8. ... Kg6 (Bad for black)
+
+9. Qxe4!
+  9. ... Kh5
+  10. g4#
+
+  9. ... Kf7
+    10. Ng5!
+      10. ... Qxg5
+      11. Bxg5+-
+
+      10. ... Kg8
+      11. Qd5#
+
+      10. ... Kf6
+      11. Qf4! Kg6
+      12. Qf7! Kh6
+      13. g4 g6
+      14. Ne6! Qg5
+      15. Bxg5#
+
+## 8. ... Kf6 (Good for black)
+
+
+9. Re1
+  -- Not sacrificing the Knight loses the game
+  9. ... Nd6 (same with Nc5)
+  10. Bg5! Kg6
+  11. Nh4! Kh5
+  12. Be7! Ne5
+  13. Qxe5! Nf5
+  14. Qxf5! Kg4
+  15. Qg5#
+
+  9. ... Bd6
+  10. Rxe4
+    10. ... Re8
+    11. Bg5! Kg6
+    12. Nh4! Kh5
+    13. g4#
+
+    10. ... h6 (protecting against bg5!)
+    11. Nh4
+      11. ... g6 (protecting against Qf5#)
+      12. Qd3+- (White better development, complete yourself)
+
+      11. ... be5
+      12. Rf4!
+        12. ... Kg5
+        13. Rf5! Kxh4
+        14. Qe4! Bf4
+        15. Qxf4#
+
+        12. ... Ke7
+        13. Ng6! Ke8
+        14. Qf7#
+
+        12. ... Bxf4
+        13. Qf4! Ke7
+        14. Bxf4 ...
+        15. Re1!+-
+
+        12. ... Ne7
+        13. Qd3
+
+  -- Engine movement
+  9. ... Ne7
+  10. Qxe4
+    10. ... d5 (otherwise bring Bg5! and think)
+    11. Qf4!
+      11. ... Nf5
+      12. Qg5 Ke6
+      13. Qxd8+-
+
+      11. ... Bf5
+      12. Nd4 ...
+      13. (now you have lots of options Re6, Bg5, ...)
+
+    10. ... d4
+    11. Qf4!
+      11. ... Nf5 (same as before)
+
+      11. ... Bf5
+      12. g4+-
+
+## 8. ... Ke7 (Bad for black)
+
+9. Qxe4!
+  9. ... Kf7
+  10. Ng5!
+    10. ... Qxg5
+    11. Bxg5+-
+
+    10. ... Kg8
+    11. Qd5#
+
+    10. ... Kf6
+    11. Qf4 Kg6
+    12. Qf7 ... (same mainline as we saw)
+
+  9. ... Kf6
+  10. Bg5! Kf7
+  11. Qd5! Ke8
+  12. Bxd8 Kxd8
+  13. Ng5 ...
+  14. Nf7+- (attacking the rook and the king)
+
+## 8. ... Ke8 (Bad for black)
+
+9. Re1
+  9. ... h6 (to prevent Bg5)
+  10. Qh5! Ke7
+  11. Rxe4! Ne5
+  12. Rxe5 Kd6
+  13. Qg6! Qf6
+  14. Qd3! Kc6
+  15. Qb5! Kd6
+  16. Kc5#
+
+  9. ... d6 (add light square bishop to the game)
+  10. Rxe4! Be7
+  11. Bg5
+    11. ... h6
+    12. Bxe7 Nxe7
+    13. Qh5 ...
+    14. R1e1
+
+    11. ... Kf8
+    12. R1e1
+      12. ... Bxg5
+      13. Nxg5 (Qf7#) Ne5
+      14. Rxe5 Be6
+      15. Qxe6 Qxg5
+      16. Rxg5 ... (finish him/her)
+
+  9. ... Be7
+  10. Re4
+    10. .... h6 (prevent bg5)
+    11. Bxh6
+      11. ... Rxh6
+      12. Qg8#
+
+      11. ... gxh6
+      12. Qh5! Kf8
+      13. Rf4! Bf6
+      14. Qg6 ...
+      15. Rxf6 Qxf6
+      16. Qxf6+-
+
+   10. ... Rf8
+   11. Qh5! g6
+   12. Qxf7+-
