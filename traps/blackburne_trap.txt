@@ -17,4 +17,4 @@ Player is black
         8... Nxe2)
 6... Qxe4+
 7. Qe2 (7. Be2 Nf3#)
-7... Nxe2
+7... Nxe2-+

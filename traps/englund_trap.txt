@@ -1,0 +1,18 @@
+# Englund Trap
+
+Player is black
+
+1. d4 e5
+2. dxe5 Nc6
+3. Nf3 Qe7
+4. Bf4 Qb4+
+5. Bd2 Qxb2
+6. Bc3 Bb4
+7. Qd2 (7. Bxb4 Nxb4
+        8. Nc3 (8. Na3 Qxa3)
+        8... Qxc3+)
+7... Bxc3
+8. Qxc3 (8. Nxc3 Qxa1+
+         9. Nd1 Nxe5
+         10. Nxe5 Qxe5)
+8... Qc1#
